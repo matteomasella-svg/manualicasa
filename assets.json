@@ -1,0 +1,2246 @@
+{
+  "settings": {
+    "claimEmail": "agenzia.milanosempione75.it@generali.com",
+    "whatsapp": "393357526468",
+    "defaultEnergyTariff": 0.3,
+    "claimSubjectPrefix": "per roberta da 2emmeApartment"
+  },
+  "apartments": [
+    {
+      "id": "suite",
+      "publicName": "The NoLo Suite - Space & Comfort",
+      "shortName": "The NoLo Suite",
+      "address": "Via Bassano del Grappa 32, Piano Secondo",
+      "floor": "Secondo",
+      "elevator": "Assente",
+      "doorman": "Assente",
+      "homepageDescription": "Ampio bilocale luminoso con camera separata, terrazzino privato e comfort moderni nel cuore di NoLo.",
+      "apartmentCode": "SUITE24",
+      "heroLabel": "Space & Comfort",
+      "supportPhone": "2EMME Guest Support · +39 02 4004 8595",
+      "accent": "var(--suite)",
+      "assets": [
+        {
+          "id": "EQ05",
+          "item": "Lavasciuga",
+          "brandModel": "Hoover H-WASH 500 (HD 495AMC/1)",
+          "category": "Laundry",
+          "serial": "3101084322506120",
+          "purchaseDate": "2024-09-25",
+          "consumptionKwhYear": 241,
+          "notes": "220 lavaggi + 50 asciugature/anno",
+          "quickUse": [
+            "Accendi ruotando la manopola.",
+            "Scegli il programma.",
+            "Imposta l'asciugatura se necessaria.",
+            "Premi Avvio/Pausa."
+          ],
+          "programs": [
+            "Auto Care",
+            "Steam Care",
+            "All In One 59'",
+            "Rapidi 14/30/44 min",
+            "Lana",
+            "Asciugatura Stiro/Armadio/Extra"
+          ],
+          "detailedPrograms": [
+            "Tecnologia all-in-one con miscelazione acqua e detergente direttamente sui capi.",
+            "Controllare sempre le etichette dei tessuti prima di usare asciugatura meccanica.",
+            "In asciugatura non superare metà cestello per un risultato uniforme."
+          ],
+          "washProgramsDetailed": [
+            {
+              "name": "Auto Care",
+              "duration": "variabile in base al carico",
+              "suitableFor": "bucato quotidiano misto, cotone e sintetici non delicati",
+              "warnings": [
+                "non ideale per lana o seta",
+                "durata automatica in base al peso"
+              ],
+              "notes": "Programma intelligente che adatta acqua, tempo e consumi."
+            },
+            {
+              "name": "Steam Care",
+              "duration": "medio",
+              "suitableFor": "capi da rinfrescare e ammorbidire con riduzione pieghe",
+              "warnings": [
+                "non sostituisce un lavaggio profondo su sporco importante"
+              ],
+              "notes": "Utile per refresh leggero e facilitare la stiratura."
+            },
+            {
+              "name": "All In One 59'",
+              "duration": "59 min",
+              "suitableFor": "capi misti poco o mediamente sporchi, cotone e sintetici colorati",
+              "warnings": [
+                "non adatto a lana, seta o capi molto delicati",
+                "non ideale per sporco pesante"
+              ],
+              "notes": "Buon compromesso tra rapidità e prestazioni."
+            },
+            {
+              "name": "Rapidi 14/30/44 min",
+              "duration": "14, 30 o 44 min",
+              "suitableFor": "piccoli carichi poco sporchi o refresh rapido",
+              "warnings": [
+                "non usare per lenzuola, spugne o capi molto sporchi"
+              ],
+              "notes": "Pensato per turnover rapido e bucato leggero."
+            },
+            {
+              "name": "Lana",
+              "duration": "delicato",
+              "suitableFor": "solo capi etichettati lavabili in lavatrice",
+              "warnings": [
+                "usare poco detersivo",
+                "carico ridotto"
+              ],
+              "notes": "Movimento cestello più dolce per proteggere le fibre."
+            }
+          ],
+          "dryProgramsDetailed": [
+            {
+              "name": "Pronto Stiro",
+              "duration": "variabile",
+              "suitableFor": "camicie e capi da stirare",
+              "warnings": [
+                "i capi escono leggermente umidi"
+              ],
+              "notes": "Riduce stress termico e facilita la stiratura."
+            },
+            {
+              "name": "Armadio",
+              "duration": "variabile",
+              "suitableFor": "bucato quotidiano pronto da riporre",
+              "warnings": [
+                "non adatto a carichi troppo compatti"
+              ],
+              "notes": "Livello di asciugatura più versatile."
+            },
+            {
+              "name": "Extra",
+              "duration": "variabile",
+              "suitableFor": "spugne, accappatoi e cotone pesante",
+              "warnings": [
+                "evitare sintetici sottili o tessuti tecnici",
+                "non usare su capi sensibili al calore"
+              ],
+              "notes": "Asciugatura più intensa."
+            }
+          ],
+          "green": "Auto Care ottimizza acqua, tempo e consumo in base al carico.",
+          "troubleshooting": [
+            "E03: controlla il filtro di scarico.",
+            "Se l'oblò resta bloccato, attendi 2 minuti.",
+            "Se vibra troppo, ridistribuisci i capi."
+          ],
+          "maintenance": [
+            "Pulizia filtro in basso a destra ogni 2 mesi.",
+            "Asciugare sempre la guarnizione dell'oblò dopo l'uso."
+          ],
+          "assistance": "Hoover Service · 02.40048595",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ07",
+          "item": "Televisore 50\"",
+          "brandModel": "LG 50UQ75006LF",
+          "category": "Entertainment",
+          "serial": "303MAWLFON93",
+          "purchaseDate": "2023-04-06",
+          "consumptionKwhYear": 102,
+          "notes": "4h uso/giorno",
+          "quickUse": [
+            "Accendi con il telecomando.",
+            "Premi Home per le app smart.",
+            "Seleziona HDMI per sorgenti esterne."
+          ],
+          "programs": [
+            "Smart TV",
+            "Streaming",
+            "HDMI"
+          ],
+          "detailedPrograms": [
+            "Televisore smart 50 pollici.",
+            "Supporta app streaming e sorgenti HDMI."
+          ],
+          "green": "Spegni completamente il TV se non viene usato per lungo tempo.",
+          "troubleshooting": [
+            "Se non c'è segnale, verifica la sorgente selezionata o la rete Wi‑Fi."
+          ],
+          "maintenance": [
+            "Pulizia schermo con panno morbido asciutto."
+          ],
+          "assistance": "LG Support",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ53",
+          "item": "Frigorifero",
+          "brandModel": "IKEA HUTTRA",
+          "category": "Kitchen Appliance",
+          "purchaseDate": "2022-12-31",
+          "consumptionKwhYear": 190,
+          "notes": "24/7",
+          "quickUse": [
+            "Regola il termostato interno.",
+            "Livello consigliato: 3.",
+            "Non inserire cibi caldi."
+          ],
+          "programs": [
+            "Raffreddamento statico",
+            "Freezer integrato"
+          ],
+          "detailedPrograms": [
+            "Frigorifero sottopiano con freezer integrato.",
+            "Mantenere libera la circolazione dell'aria tra gli alimenti."
+          ],
+          "green": "Evita di sovraccaricare il vano.",
+          "troubleshooting": [
+            "Se si forma acqua sul fondo, pulisci il foro di scarico condensa."
+          ],
+          "maintenance": [
+            "Pulizia periodica foro condensa.",
+            "Pulizia guarnizioni con acqua e sapone neutro."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ54",
+          "item": "Microonde",
+          "brandModel": "IKEA MATÄLSKARE",
+          "category": "Kitchen Appliance",
+          "purchaseDate": "2022-12-31",
+          "consumptionKwhYear": 110,
+          "notes": "15 min/giorno",
+          "quickUse": [
+            "Imposta potenza.",
+            "Imposta il tempo.",
+            "Attendi il segnale acustico di fine ciclo."
+          ],
+          "programs": [
+            "Riscaldamento rapido",
+            "Defrost"
+          ],
+          "detailedPrograms": [
+            "Microonde a incasso con funzioni essenziali di riscaldamento e scongelamento.",
+            "Non usare metallo, alluminio o piatti con bordi dorati."
+          ],
+          "green": "Per piccole quantità è più efficiente del forno tradizionale.",
+          "troubleshooting": [
+            "Se senti scintille, interrompi subito il ciclo e verifica il contenitore usato."
+          ],
+          "maintenance": [
+            "Pulizia pareti interne con panno umido."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ55",
+          "item": "Cappa",
+          "brandModel": "IKEA UTDRAG",
+          "category": "Kitchen Appliance",
+          "purchaseDate": "2022-12-31",
+          "quickUse": [
+            "Estrarre il carrello frontale per attivare l'aspirazione.",
+            "Scegli la velocità desiderata."
+          ],
+          "programs": [
+            "Velocità 1",
+            "Velocità 2",
+            "Velocità 3",
+            "Luce LED"
+          ],
+          "detailedPrograms": [
+            "Cappa estraibile a incasso con 3 velocità di aspirazione."
+          ],
+          "green": "Accendila a velocità 1 un minuto prima di iniziare a cucinare.",
+          "troubleshooting": [
+            "Se è rumorosa, verifica che i filtri non siano saturi o male agganciati."
+          ],
+          "maintenance": [
+            "Lavaggio filtri antigrasso ogni 60 giorni."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ56",
+          "item": "Lavastoviglie",
+          "brandModel": "IKEA LAGAN 60",
+          "category": "Kitchen Appliance",
+          "consumptionKwhYear": 238,
+          "notes": "280 cicli/anno",
+          "quickUse": [
+            "Inserisci la pastiglia.",
+            "Premi Power.",
+            "Seleziona P1 ECO.",
+            "Chiudi la porta con decisione."
+          ],
+          "programs": [
+            "P1 ECO",
+            "P2 Intensivo 70°C",
+            "P4 Rapido 30'"
+          ],
+          "detailedPrograms": [
+            "Caricare piatti grandi e pentole in basso, bicchieri e tazze in alto.",
+            "Non bloccare i bracci rotanti con stoviglie sporgenti.",
+            "Non inserire legno, coltelli delicati o oggetti non idonei alla lavastoviglie."
+          ],
+          "dishwasherProgramsDetailed": [
+            {
+              "name": "ECO",
+              "duration": "circa 210 min",
+              "suitableFor": "piatti, bicchieri, tazze e posate normalmente sporchi",
+              "warnings": [
+                "programma consigliato per l'uso quotidiano",
+                "non adatto a incrostazioni molto forti o teglie carbonizzate",
+                "attendere 10 minuti a fine ciclo prima di aprire completamente"
+              ],
+              "notes": "Miglior equilibrio tra risultato di lavaggio e consumo di acqua/energia."
+            },
+            {
+              "name": "Intensivo 70°C",
+              "duration": "circa 140-170 min",
+              "suitableFor": "pentole, padelle, pirofile e stoviglie con sporco importante o unto secco",
+              "warnings": [
+                "non usare con cristallo delicato o plastica sensibile al calore",
+                "posizionare in basso gli oggetti più sporchi",
+                "da usare solo quando necessario"
+              ],
+              "notes": "Lavaggio ad alta temperatura con maggiore potenza meccanica."
+            },
+            {
+              "name": "Rapido 30'",
+              "duration": "circa 30 min",
+              "suitableFor": "stoviglie poco sporche o appena usate",
+              "warnings": [
+                "asciugatura meno efficace rispetto a ECO",
+                "non indicato per pentole unte o sporco secco da molte ore",
+                "meglio per carichi ridotti"
+              ],
+              "notes": "Ideale per refresh veloce tra un uso e l'altro."
+            }
+          ],
+          "green": "P1 ECO è il ciclo consigliato per il miglior bilanciamento tra risultato e consumi.",
+          "troubleshooting": [
+            "F2: verifica filtri sul fondo.",
+            "Se le stoviglie restano bagnate, controlla il brillantante."
+          ],
+          "maintenance": [
+            "Pulizia filtro centrale una volta a settimana."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ57",
+          "item": "Piano cottura",
+          "brandModel": "IKEA GRUNDAD / induzione",
+          "category": "Kitchen Appliance",
+          "consumptionKwhYear": 402,
+          "notes": "45 min/giorno",
+          "quickUse": [
+            "Premi Power.",
+            "Sblocca il lucchetto tenendolo premuto per 4 secondi.",
+            "Regola la potenza da 1 a 9."
+          ],
+          "programs": [
+            "9 livelli di potenza",
+            "Rilevamento pentola",
+            "Calore residuo H"
+          ],
+          "detailedPrograms": [
+            "Piano cottura a induzione 4 zone.",
+            "Usare solo pentole con fondo magnetico."
+          ],
+          "green": "Spegni la zona 2-3 minuti prima della fine per sfruttare il calore residuo.",
+          "troubleshooting": [
+            "U: pentola non rilevata o non compatibile.",
+            "H: superficie ancora calda."
+          ],
+          "maintenance": [
+            "Pulisci a freddo con panno in microfibra e detergente non abrasivo."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ58",
+          "item": "Macchina caffè",
+          "brandModel": "Illy Iperespresso Y3.3",
+          "category": "Coffee",
+          "serial": "21604772212620700",
+          "purchaseDate": "2023-07-11",
+          "quickUse": [
+            "Inserisci la capsula.",
+            "Premi il tasto espresso o lungo.",
+            "Attendi l'erogazione completa."
+          ],
+          "programs": [
+            "Espresso",
+            "Lungo"
+          ],
+          "detailedPrograms": [
+            "Macchina a capsule Illy Iperespresso.",
+            "Usare solo capsule compatibili Illy."
+          ],
+          "green": "Spegni la macchina dopo l'uso se non entra automaticamente in standby.",
+          "troubleshooting": [
+            "Se non eroga, verifica acqua nel serbatoio e corretta chiusura della capsula."
+          ],
+          "maintenance": [
+            "Svuota vaschetta e contenitore capsule.",
+            "Decalcificazione periodica secondo uso."
+          ],
+          "assistance": "Illy Support",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ59",
+          "item": "Condizionatore",
+          "brandModel": "Zephir ZDU09-90199 Dual Split",
+          "category": "HVAC",
+          "consumptionKwhYear": 400,
+          "quickUse": [
+            "Punta il telecomando verso l'unità desiderata.",
+            "MODE > Cool.",
+            "Imposta 24°C.",
+            "Non scendere sotto 22°C."
+          ],
+          "programs": [
+            "Raffreddamento",
+            "Riscaldamento",
+            "Deumidificazione",
+            "Ventilazione",
+            "Turbo"
+          ],
+          "detailedPrograms": [
+            "Sistema bi-split con gestione indipendente soggiorno/camera.",
+            "Turbo Mode utile al check-in per massimo 10 minuti."
+          ],
+          "green": "Eco Mode stabilizza i consumi una volta raggiunta la temperatura impostata.",
+          "troubleshooting": [
+            "Se gocciola, controlla filtri e scarico condensa.",
+            "F1/F2: togli corrente per 5 minuti e riaccendi."
+          ],
+          "maintenance": [
+            "Lavaggio filtri ogni 30 giorni."
+          ],
+          "assistance": "Gestore 2EMME",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ60",
+          "item": "Scaldabagno a gas",
+          "brandModel": "Vaillant Atmomag Mini",
+          "category": "Water Heating",
+          "serial": "21222200100225702700013484N3",
+          "purchaseDate": "2023-01-01",
+          "consumptionKwhYear": 36,
+          "quickUse": [
+            "Accensione automatica all'apertura del rubinetto.",
+            "Manopola sinistra per gas, destra per temperatura acqua."
+          ],
+          "programs": [
+            "Acqua calda sanitaria continua"
+          ],
+          "detailedPrograms": [
+            "Scaldabagno istantaneo a gas metano a camera aperta.",
+            "Temperatura acqua consigliata 45°C per migliore efficienza."
+          ],
+          "green": "Scaldare l'acqua a 45°C è più efficiente che portarla al massimo.",
+          "troubleshooting": [
+            "LED rosso fisso: blocco sicurezza.",
+            "LED blu lampeggiante: batterie in esaurimento."
+          ],
+          "maintenance": [
+            "Nessun intervento interno per l'ospite.",
+            "Bollino blu biennale obbligatorio."
+          ],
+          "assistance": "Vaillant Milano · 02.61294665",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        }
+      ],
+      "policy": "Attiva Turismo n. 460438632"
+    },
+    {
+      "id": "nest",
+      "publicName": "The NoLo Nest - Compact & Smart",
+      "shortName": "The NoLo Nest",
+      "address": "Via Bassano del Grappa 32, Piano Secondo",
+      "floor": "Secondo",
+      "elevator": "Assente",
+      "doorman": "Assente",
+      "homepageDescription": "Nido compatto e funzionale con cucina separata, smart lock e dotazioni complete per una base pratica a NoLo.",
+      "apartmentCode": "NEST24",
+      "heroLabel": "Compact & Smart",
+      "supportPhone": "2EMME Guest Support · +39 02 4004 8200",
+      "accent": "var(--nest)",
+      "assets": [
+        {
+          "id": "EQ112",
+          "item": "Lavasciuga",
+          "brandModel": "Hoover HD 495AMC/1-S",
+          "category": "Laundry",
+          "serial": "3101084322416637",
+          "purchaseDate": "2023-04-06",
+          "consumptionKwhYear": 340,
+          "notes": "1600W max",
+          "quickUse": [
+            "Seleziona programma.",
+            "Imposta asciugatura se necessaria.",
+            "Premi Avvio/Pausa."
+          ],
+          "programs": [
+            "Auto Care",
+            "All In One 59'",
+            "Eco 40-60",
+            "Rapidi"
+          ],
+          "detailedPrograms": [
+            "Lavasciuga Hoover per uso quotidiano.",
+            "In asciugatura usare carico ridotto rispetto al lavaggio."
+          ],
+          "washProgramsDetailed": [
+            {
+              "name": "Auto Care",
+              "duration": "variabile",
+              "suitableFor": "bucato misto quotidiano",
+              "warnings": [
+                "non per lana o seta"
+              ],
+              "notes": "Regola automaticamente il ciclo in base al carico."
+            },
+            {
+              "name": "All In One 59'",
+              "duration": "59 min",
+              "suitableFor": "capi poco sporchi e turnover rapido",
+              "warnings": [
+                "non indicato per sporco pesante"
+              ],
+              "notes": "Rapido e pratico per carichi medi."
+            },
+            {
+              "name": "Eco 40-60",
+              "duration": "più lungo",
+              "suitableFor": "cotone normalmente sporco",
+              "warnings": [
+                "più lento ma più efficiente"
+              ],
+              "notes": "Programma consigliato quando non hai urgenza."
+            },
+            {
+              "name": "Rapidi",
+              "duration": "breve",
+              "suitableFor": "piccoli carichi poco sporchi",
+              "warnings": [
+                "non per spugne, piumoni o lenzuola pesanti"
+              ],
+              "notes": "Ideale per refresh veloce."
+            }
+          ],
+          "dryProgramsDetailed": [
+            {
+              "name": "Asciugatura standard",
+              "duration": "variabile",
+              "suitableFor": "bucato quotidiano non eccessivamente voluminoso",
+              "warnings": [
+                "ridurre il carico",
+                "separare cotone e sintetici"
+              ],
+              "notes": "Con carico corretto asciuga meglio e in meno tempo."
+            }
+          ],
+          "green": "Usa Eco 40-60 quando possibile.",
+          "troubleshooting": [
+            "Se vibra, ridistribuisci i capi.",
+            "Controlla filtro e scarico in caso di errore."
+          ],
+          "maintenance": [
+            "Pulizia filtro di scarico periodica.",
+            "Asciugare guarnizione oblò."
+          ],
+          "assistance": "Hoover Service · 02.40048595",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ15",
+          "item": "Televisore 50\"",
+          "brandModel": "LG 50UQ75006LF",
+          "category": "Entertainment",
+          "serial": "303MAAKFON92",
+          "purchaseDate": "2023-04-06",
+          "consumptionKwhYear": 102,
+          "notes": "70-140W",
+          "quickUse": [
+            "Accendi con telecomando.",
+            "Home per app e funzioni smart."
+          ],
+          "programs": [
+            "Smart TV",
+            "HDMI",
+            "Streaming"
+          ],
+          "detailedPrograms": [
+            "Televisore smart 50 pollici."
+          ],
+          "green": "Riduci la luminosità in orario serale per minor consumo.",
+          "troubleshooting": [
+            "Verifica Wi‑Fi o HDMI in caso di assenza segnale."
+          ],
+          "maintenance": [
+            "Pulizia schermo con panno morbido."
+          ],
+          "assistance": "LG Support",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ52",
+          "item": "Aspirapolvere",
+          "brandModel": "BLACK+DECKER BXVMS600E",
+          "category": "Cleaning",
+          "serial": "44491HK",
+          "purchaseDate": "2026-01-04",
+          "consumptionKwhYear": 21,
+          "notes": "Potenza 600W",
+          "quickUse": [
+            "Collega alla presa.",
+            "Accendi e usa l'accessorio adatto."
+          ],
+          "programs": [
+            "Aspirazione standard"
+          ],
+          "detailedPrograms": [
+            "Aspirapolvere compatto per pulizie rapide dell'alloggio."
+          ],
+          "green": "Usalo solo per sessioni brevi e mirate.",
+          "troubleshooting": [
+            "Se perde potenza, controlla serbatoio o filtri."
+          ],
+          "maintenance": [
+            "Svuota il contenitore polvere.",
+            "Pulisci i filtri secondo uso."
+          ],
+          "assistance": "BLACK+DECKER Support",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ61",
+          "item": "Frigorifero",
+          "brandModel": "IKEA HUTTRA (UCI48W)",
+          "category": "Kitchen Appliance",
+          "serial": "112224011654",
+          "purchaseDate": "2022-12-31",
+          "consumptionKwhYear": 150,
+          "quickUse": [
+            "Imposta termostato interno su 3.",
+            "Non introdurre cibi caldi."
+          ],
+          "programs": [
+            "Raffreddamento statico"
+          ],
+          "detailedPrograms": [
+            "Frigorifero sottopiano con freezer integrato.",
+            "Tenere libero il foro condensa."
+          ],
+          "green": "Non riempire troppo la cella per garantire circolazione dell'aria.",
+          "troubleshooting": [
+            "Se trovi acqua sul fondo, pulisci lo scarico condensa."
+          ],
+          "maintenance": [
+            "Pulizia foro condensa posteriore."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ62",
+          "item": "Microonde",
+          "brandModel": "IKEA MATÄLSKARE",
+          "category": "Kitchen Appliance",
+          "serial": "152248008090",
+          "purchaseDate": "2022-12-31",
+          "consumptionKwhYear": 50,
+          "notes": "Input 1300W",
+          "quickUse": [
+            "Selettore watt.",
+            "Selettore tempo."
+          ],
+          "programs": [
+            "Riscaldamento",
+            "Scongelamento"
+          ],
+          "detailedPrograms": [
+            "Microonde Inox da incasso.",
+            "No metalli, no alluminio, no piatti con bordi dorati."
+          ],
+          "green": "Ideale per riscaldamenti veloci con minore consumo rispetto al forno.",
+          "troubleshooting": [
+            "Interrompi se senti scintille o rumori anomali dovuti al contenitore."
+          ],
+          "maintenance": [
+            "Pulizia pareti interne con panno umido."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ63",
+          "item": "Cappa",
+          "brandModel": "IKEA UTDRAG",
+          "category": "Kitchen Appliance",
+          "purchaseDate": "2022-12-31",
+          "quickUse": [
+            "Estrarre il carrello frontale per attivare aspirazione e luce."
+          ],
+          "programs": [
+            "3 velocità",
+            "LED"
+          ],
+          "detailedPrograms": [
+            "Cappa estraibile a incasso con illuminazione LED."
+          ],
+          "green": "Usare velocità bassa all'inizio per ridurre consumi e rumore.",
+          "troubleshooting": [
+            "Rumore eccessivo: verifica filtri saturi o male agganciati."
+          ],
+          "maintenance": [
+            "Lavaggio filtri metallici ogni 60 giorni."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ64",
+          "item": "Lavastoviglie",
+          "brandModel": "IKEA LAGAN 45",
+          "category": "Kitchen Appliance",
+          "serial": "22202730",
+          "purchaseDate": "2022-12-31",
+          "consumptionKwhYear": 220,
+          "notes": "Max 2100W",
+          "quickUse": [
+            "Inserisci la pastiglia.",
+            "Power.",
+            "Seleziona P1 ECO.",
+            "Chiudi la porta."
+          ],
+          "programs": [
+            "P1 ECO",
+            "P2 Intensivo",
+            "P3 Rapido 30'"
+          ],
+          "detailedPrograms": [
+            "Lavastoviglie slim 45 cm.",
+            "Attendere 10 minuti dal segnale finale prima di aprire completamente."
+          ],
+          "dishwasherProgramsDetailed": [
+            {
+              "name": "ECO",
+              "duration": "circa 210 min",
+              "suitableFor": "piatti, bicchieri, tazze e posate normalmente sporchi",
+              "warnings": [
+                "programma consigliato per l'uso quotidiano",
+                "non adatto a incrostazioni molto forti o teglie carbonizzate",
+                "attendere 10 minuti a fine ciclo prima di aprire completamente"
+              ],
+              "notes": "Miglior equilibrio tra risultato di lavaggio e consumo di acqua/energia."
+            },
+            {
+              "name": "Intensivo 70°C",
+              "duration": "circa 140-170 min",
+              "suitableFor": "pentole, padelle, pirofile e stoviglie con sporco importante o unto secco",
+              "warnings": [
+                "non usare con cristallo delicato o plastica sensibile al calore",
+                "posizionare in basso gli oggetti più sporchi",
+                "da usare solo quando necessario"
+              ],
+              "notes": "Lavaggio ad alta temperatura con maggiore potenza meccanica."
+            },
+            {
+              "name": "Rapido 30'",
+              "duration": "circa 30 min",
+              "suitableFor": "stoviglie poco sporche o appena usate",
+              "warnings": [
+                "asciugatura meno efficace rispetto a ECO",
+                "non indicato per pentole unte o sporco secco da molte ore",
+                "meglio per carichi ridotti"
+              ],
+              "notes": "Ideale per refresh veloce tra un uso e l'altro."
+            }
+          ],
+          "green": "P1 ECO è il programma consigliato per gli ospiti.",
+          "troubleshooting": [
+            "F2: errore scarico acqua.",
+            "Se lava male, controlla il braccio rotante."
+          ],
+          "maintenance": [
+            "Lavare il filtro centrale una volta a settimana."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ65_B",
+          "item": "Piano cottura",
+          "brandModel": "IKEA MATMÄSSIG Induzione",
+          "category": "Kitchen Appliance",
+          "quickUse": [
+            "Power ON.",
+            "Sblocco sicurezza tenendo premuto il lucchetto per 4 secondi.",
+            "Regola potenza 1-9."
+          ],
+          "programs": [
+            "9 livelli",
+            "Booster",
+            "Rilevamento pentola"
+          ],
+          "detailedPrograms": [
+            "Piano induzione 4 zone.",
+            "Messaggio U = pentola non idonea o non rilevata."
+          ],
+          "green": "Sfrutta il calore residuo spegnendo qualche minuto prima della fine della cottura.",
+          "troubleshooting": [
+            "Vetro bagnato o oggetti sui comandi possono impedire l'accensione."
+          ],
+          "maintenance": [
+            "Pulizia a freddo con panno microfibra."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ66",
+          "item": "Macchina caffè",
+          "brandModel": "Illy Iperespresso Y3.3",
+          "category": "Coffee",
+          "serial": "21604772214320000",
+          "purchaseDate": "2023-07-11",
+          "consumptionKwhYear": 20,
+          "quickUse": [
+            "Inserisci la capsula.",
+            "Premi tasto espresso o lungo."
+          ],
+          "programs": [
+            "Espresso",
+            "Lungo"
+          ],
+          "detailedPrograms": [
+            "Macchina capsule Illy Iperespresso."
+          ],
+          "green": "Standby automatico consigliato dopo l'uso.",
+          "troubleshooting": [
+            "Verifica acqua nel serbatoio se non eroga."
+          ],
+          "maintenance": [
+            "Svuota contenitore capsule e vaschetta."
+          ],
+          "assistance": "Illy Support",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ67",
+          "item": "Scaldabagno",
+          "brandModel": "Ariston VLS WiFi 50 EU",
+          "category": "Water Heating",
+          "serial": "402279NT4565",
+          "purchaseDate": "2023-01-01",
+          "consumptionKwhYear": 1284,
+          "notes": "WiFi Smart",
+          "quickUse": [
+            "Display touch ON.",
+            "Regola temperatura con + e -.",
+            "L'icona doccia fissa indica acqua pronta."
+          ],
+          "programs": [
+            "40-80°C",
+            "ECO EVO",
+            "Anti-legionella"
+          ],
+          "detailedPrograms": [
+            "Boiler flat a doppio serbatoio.",
+            "ECO EVO apprende le abitudini per ridurre gli sprechi."
+          ],
+          "green": "ECO EVO è la modalità consigliata per l'uso ordinario.",
+          "troubleshooting": [
+            "Acqua fredda: controlla il magnetotermico dedicato.",
+            "LED 1+5 lampeggianti: surriscaldamento."
+          ],
+          "maintenance": [
+            "Nessun intervento richiesto all'ospite."
+          ],
+          "assistance": "Ariston Service · 02.800200",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ68",
+          "item": "Condizionatore",
+          "brandModel": "Candy Aria Pura CY-09TAIN",
+          "category": "HVAC",
+          "serial": "ABL6ME0000XBN5D0019",
+          "purchaseDate": "2023-01-01",
+          "consumptionKwhYear": 149,
+          "quickUse": [
+            "Power.",
+            "Modalità Cool.",
+            "Imposta 24°C.",
+            "Usa Swing per oscillazione alette."
+          ],
+          "programs": [
+            "Auto",
+            "Cool",
+            "Dry",
+            "Heat",
+            "Fan",
+            "Turbo",
+            "Health/Eco"
+          ],
+          "detailedPrograms": [
+            "Split Inverter Classe A++ con gas R32.",
+            "Turbo da usare per massimo 15 minuti al check-in."
+          ],
+          "green": "Health/Eco limita la potenza del compressore.",
+          "troubleshooting": [
+            "Scarsa resa: chiudi finestre e pulisci filtri.",
+            "E1/E7: reset togliendo corrente per 5 minuti."
+          ],
+          "maintenance": [
+            "Lavare i filtri ogni 30 giorni."
+          ],
+          "assistance": "Candy Service · 02.40048200",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ169",
+          "item": "Materasso a molle",
+          "brandModel": "IKEA VESTMARKA",
+          "category": "Furniture",
+          "serial": "Ord. 1507682989",
+          "purchaseDate": "2025-03-20",
+          "quickUse": [
+            "Usare con coprimaterasso e lenzuola dedicate."
+          ],
+          "programs": [
+            "Nessun programma"
+          ],
+          "detailedPrograms": [
+            "Arredo notte presente nell'alloggio."
+          ],
+          "green": "Arieggiare la stanza aiuta la conservazione del materasso.",
+          "troubleshooting": [
+            "Segnalare macchie o danni al gestore."
+          ],
+          "maintenance": [
+            "Rotazione periodica a carico della proprietà."
+          ],
+          "assistance": "2EMME Guest Support",
+          "coverage": "Contenuto",
+          "franchise": "Secondo condizioni di polizza"
+        }
+      ],
+      "policy": "Attiva Turismo n. 460438632"
+    },
+    {
+      "id": "studio",
+      "publicName": "The NoLo Studio - Urban & Sleek",
+      "shortName": "The NoLo Studio",
+      "address": "Via Giorgio Chavez 1, Piano Sesto",
+      "floor": "Sesto",
+      "elevator": "Presente con chiave",
+      "doorman": "Presente, mezza giornata anche sabato fino alle 12:00",
+      "homepageDescription": "Studio moderno e luminoso al piano alto, con cabina armadio, portineria e stile urbano raffinato.",
+      "apartmentCode": "STUDIO24",
+      "heroLabel": "Urban & Sleek",
+      "supportPhone": "2EMME Guest Support · +39 02 2154 241",
+      "accent": "var(--studio)",
+      "assets": [
+        {
+          "id": "EQ22",
+          "item": "Lavasciuga",
+          "brandModel": "Hoover Dynamic Next WDXOA 464",
+          "category": "Laundry",
+          "purchaseDate": "2023-04-06",
+          "consumptionKwhYear": 241,
+          "notes": "220 lav + 50 asc/anno",
+          "quickUse": [
+            "Ruota la manopola sul programma.",
+            "Premi il tasto Sole per impostare il livello di asciugatura.",
+            "Premi Avvio/Pausa."
+          ],
+          "programs": [
+            "Cotone",
+            "Misti",
+            "Lana & Seta",
+            "Igiene 60°C",
+            "All In One 59'",
+            "Stiro/Armadio/Extra"
+          ],
+          "detailedPrograms": [
+            "Tecnologia All-In-One con nebulizzazione di acqua e detergente direttamente nel cestello.",
+            "Per asciugatura non superare 4 kg di carico."
+          ],
+          "washProgramsDetailed": [
+            {
+              "name": "Cotone",
+              "duration": "medio-lungo",
+              "suitableFor": "asciugamani, lenzuola, t-shirt e capi resistenti",
+              "warnings": [
+                "può arrivare a temperature elevate",
+                "non usare per tessuti delicati o lana"
+              ],
+              "notes": "Ideale per bucato robusto e igienizzazione ordinaria."
+            },
+            {
+              "name": "Misti",
+              "duration": "medio",
+              "suitableFor": "fibre diverse e bucato quotidiano mediamente sporco",
+              "warnings": [
+                "separare i colori molto intensi al primo lavaggio"
+              ],
+              "notes": "Buon programma per uso generale."
+            },
+            {
+              "name": "Lana & Seta",
+              "duration": "delicato",
+              "suitableFor": "capi delicati e leggeri lavabili in lavatrice",
+              "warnings": [
+                "carico ridotto",
+                "preferibile sacchetto protettivo per piccoli capi"
+              ],
+              "notes": "Movimento più dolce per fibre sensibili."
+            },
+            {
+              "name": "Igiene 60°C",
+              "duration": "medio-lungo",
+              "suitableFor": "biancheria resistente, asciugamani e capi da igienizzare",
+              "warnings": [
+                "non adatto a colori delicati o tessuti sensibili"
+              ],
+              "notes": "Ideale quando serve maggiore pulizia termica."
+            },
+            {
+              "name": "All In One 59'",
+              "duration": "59 min",
+              "suitableFor": "capi misti poco sporchi e ricambi rapidi",
+              "warnings": [
+                "non per sporco pesante o tessuti speciali"
+              ],
+              "notes": "Ottimo compromesso tra velocità e risultato."
+            }
+          ],
+          "dryProgramsDetailed": [
+            {
+              "name": "Pronto Stiro",
+              "duration": "variabile",
+              "suitableFor": "camicie e capi da stirare",
+              "warnings": [
+                "escono leggermente umidi"
+              ],
+              "notes": "Riduce pieghe e facilita stiratura."
+            },
+            {
+              "name": "Armadio",
+              "duration": "variabile",
+              "suitableFor": "bucato quotidiano pronto da riporre",
+              "warnings": [
+                "non sovraccaricare il cestello"
+              ],
+              "notes": "Livello più versatile per ospiti."
+            },
+            {
+              "name": "Extra",
+              "duration": "variabile",
+              "suitableFor": "spugne, accappatoi e cotone pesante",
+              "warnings": [
+                "evitare sintetici sottili o tessuti tecnici"
+              ],
+              "notes": "Asciugatura intensa per capi spessi."
+            }
+          ],
+          "green": "All In One 59' è il ciclo green consigliato per pieno carico in meno di un'ora.",
+          "troubleshooting": [
+            "E02: mancato carico acqua.",
+            "E03: scarico ostruito.",
+            "E07: porta non bloccata."
+          ],
+          "maintenance": [
+            "Pulizia filtro scarico ogni 2 mesi.",
+            "Asciugare guarnizione dopo l'uso."
+          ],
+          "assistance": "Hoover Service · 02.40048595",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ70",
+          "item": "Frigorifero",
+          "brandModel": "IKEA HUTTRA",
+          "category": "Kitchen Appliance",
+          "purchaseDate": "2019-06-27",
+          "consumptionKwhYear": 190,
+          "notes": "24/7",
+          "quickUse": [
+            "Termostato consigliato: livello 3."
+          ],
+          "programs": [
+            "Raffreddamento statico"
+          ],
+          "detailedPrograms": [
+            "Frigorifero sottopiano con freezer integrato."
+          ],
+          "green": "Mantieni gli alimenti distanziati dalle pareti interne.",
+          "troubleshooting": [
+            "Acqua sul fondo = scarico condensa ostruito."
+          ],
+          "maintenance": [
+            "Pulizia semestrale foro di scarico condensa."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ71",
+          "item": "Microonde",
+          "brandModel": "IKEA MATÄLSKARE",
+          "category": "Kitchen Appliance",
+          "quickUse": [
+            "Manopola superiore per potenza, inferiore per tempo."
+          ],
+          "programs": [
+            "Riscaldamento",
+            "Defrost"
+          ],
+          "detailedPrograms": [
+            "Microonde a incasso finitura Inox.",
+            "No metalli o alluminio all'interno."
+          ],
+          "green": "Per piccole porzioni è più efficiente del forno tradizionale.",
+          "troubleshooting": [
+            "Scintille = contenitore non idoneo."
+          ],
+          "maintenance": [
+            "Pulizia camera interna con panno umido."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ72",
+          "item": "Cappa",
+          "brandModel": "IKEA UTDRAG",
+          "category": "Kitchen Appliance",
+          "quickUse": [
+            "Estrarre il carrello frontale per avviare l'aspirazione."
+          ],
+          "programs": [
+            "3 velocità",
+            "LED"
+          ],
+          "detailedPrograms": [
+            "Cappa estraibile a incasso."
+          ],
+          "green": "Usa la velocità minima quando basta.",
+          "troubleshooting": [
+            "Rumore eccessivo = possibile filtro saturo."
+          ],
+          "maintenance": [
+            "Filtri metallici in lavastoviglie ogni 60 giorni."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ73",
+          "item": "Lavastoviglie",
+          "brandModel": "IKEA LAGAN",
+          "category": "Kitchen Appliance",
+          "purchaseDate": "2019-06-27",
+          "consumptionKwhYear": 238,
+          "quickUse": [
+            "Pastiglia > Power > P1 ECO > chiudi la porta."
+          ],
+          "programs": [
+            "P1 ECO",
+            "Intensivo",
+            "Rapido 30'"
+          ],
+          "detailedPrograms": [
+            "Modello integrato 60 cm ad alta affidabilità.",
+            "Usare il programma ECO come standard per gli ospiti."
+          ],
+          "dishwasherProgramsDetailed": [
+            {
+              "name": "ECO",
+              "duration": "circa 210 min",
+              "suitableFor": "piatti, bicchieri, tazze e posate normalmente sporchi",
+              "warnings": [
+                "programma consigliato per l'uso quotidiano",
+                "non adatto a incrostazioni molto forti o teglie carbonizzate",
+                "attendere 10 minuti a fine ciclo prima di aprire completamente"
+              ],
+              "notes": "Miglior equilibrio tra risultato di lavaggio e consumo di acqua/energia."
+            },
+            {
+              "name": "Intensivo 70°C",
+              "duration": "circa 140-170 min",
+              "suitableFor": "pentole, padelle, pirofile e stoviglie con sporco importante o unto secco",
+              "warnings": [
+                "non usare con cristallo delicato o plastica sensibile al calore",
+                "posizionare in basso gli oggetti più sporchi",
+                "da usare solo quando necessario"
+              ],
+              "notes": "Lavaggio ad alta temperatura con maggiore potenza meccanica."
+            },
+            {
+              "name": "Rapido 30'",
+              "duration": "circa 30 min",
+              "suitableFor": "stoviglie poco sporche o appena usate",
+              "warnings": [
+                "asciugatura meno efficace rispetto a ECO",
+                "non indicato per pentole unte o sporco secco da molte ore",
+                "meglio per carichi ridotti"
+              ],
+              "notes": "Ideale per refresh veloce tra un uso e l'altro."
+            }
+          ],
+          "green": "P1 ECO garantisce il minimo consumo di acqua e watt.",
+          "troubleshooting": [
+            "F2: verifica filtro fondo.",
+            "Se restano bagnate, controlla brillantante."
+          ],
+          "maintenance": [
+            "Pulizia filtro fondo regolare."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ74",
+          "item": "Piano cottura",
+          "brandModel": "IKEA BARMHÄRTIG (vetroceramica)",
+          "category": "Kitchen Appliance",
+          "purchaseDate": "2019-06-27",
+          "consumptionKwhYear": 402,
+          "quickUse": [
+            "Power ON.",
+            "Sblocca sicurezza con tasto chiave per 4 secondi.",
+            "Regola potenza 1-9."
+          ],
+          "programs": [
+            "9 livelli",
+            "Calore residuo H"
+          ],
+          "detailedPrograms": [
+            "Vetroceramica radiante, non induzione.",
+            "Compatibile con pentole a fondo piatto."
+          ],
+          "green": "Spegni il piano 5-10 minuti prima del termine per sfruttare il calore residuo.",
+          "troubleshooting": [
+            "Mancata accensione: vetro asciutto e senza oggetti sui comandi touch."
+          ],
+          "maintenance": [
+            "Pulire solo a freddo con prodotti per vetroceramica."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ75",
+          "item": "Macchina caffè",
+          "brandModel": "Nespresso Essenza Mini C30",
+          "category": "Coffee",
+          "serial": "19157C30q0451782096",
+          "purchaseDate": "2019-10-01",
+          "quickUse": [
+            "Inserisci capsula Nespresso.",
+            "Premi corto o lungo."
+          ],
+          "programs": [
+            "Espresso",
+            "Lungo"
+          ],
+          "detailedPrograms": [
+            "Macchina caffè compatta a capsule."
+          ],
+          "green": "Standby automatico dopo inattività.",
+          "troubleshooting": [
+            "Se non esce caffè, verifica acqua e capsula."
+          ],
+          "maintenance": [
+            "Decalcificazione periodica."
+          ],
+          "assistance": "Nespresso Support",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ76",
+          "item": "Scaldabagno",
+          "brandModel": "Ariston Velis Evo 50L",
+          "category": "Water Heating",
+          "serial": "091907DR0800",
+          "purchaseDate": "2019-09-01",
+          "consumptionKwhYear": 1314,
+          "quickUse": [
+            "Display touch ON.",
+            "Imposta temperatura desiderata.",
+            "Icona doccia fissa = acqua pronta."
+          ],
+          "programs": [
+            "40-80°C",
+            "ECO EVO",
+            "Anti-legionella"
+          ],
+          "detailedPrograms": [
+            "Scalda-acqua flat a doppio serbatoio con riscaldamento sequenziale."
+          ],
+          "green": "ECO EVO apprende le abitudini per 7 giorni e riduce i consumi.",
+          "troubleshooting": [
+            "Se non esce acqua calda, verifica magnetotermico del quadro elettrico."
+          ],
+          "maintenance": [
+            "Nessun intervento richiesto all'ospite."
+          ],
+          "assistance": "Ariston Service · 02.800200",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ77",
+          "item": "Condizionatore",
+          "brandModel": "Olimpia Splendid Unico Pro 14 HP",
+          "category": "HVAC",
+          "serial": "1177W0020247",
+          "purchaseDate": "2023-07-27",
+          "consumptionKwhYear": 500,
+          "notes": "No unità esterna",
+          "quickUse": [
+            "Punta il telecomando al display.",
+            "Seleziona Cool o Heat.",
+            "Imposta 24°C.",
+            "Usa Swing per oscillazione flap."
+          ],
+          "programs": [
+            "Cooling",
+            "Heating",
+            "Silent",
+            "Economy",
+            "Deumidificazione",
+            "Moon"
+          ],
+          "detailedPrograms": [
+            "Unità monoblocco inverter senza unità esterna.",
+            "Silent mode riduce i giri ventola per comfort notturno."
+          ],
+          "green": "Economy è la modalità più efficiente per mantenimento notturno.",
+          "troubleshooting": [
+            "CL: pulizia filtri necessaria.",
+            "F1/F2: errore sonde, eseguire reset elettrico."
+          ],
+          "maintenance": [
+            "Lavaggio filtri superiori ogni 30 giorni."
+          ],
+          "assistance": "Olimpia Splendid Service · 02.2154241",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ78",
+          "item": "Materasso",
+          "brandModel": "IKEA ÅKREHAMN",
+          "category": "Furniture",
+          "purchaseDate": "2023-10-25",
+          "quickUse": [
+            "Usare con protezione materasso e biancheria dedicata."
+          ],
+          "programs": [
+            "Nessun programma"
+          ],
+          "detailedPrograms": [
+            "Arredo notte presente nell'alloggio."
+          ],
+          "green": "Arieggiare la stanza favorisce comfort e durata del materasso.",
+          "troubleshooting": [
+            "Segnalare immediatamente macchie o danni."
+          ],
+          "maintenance": [
+            "Gestione a carico della proprietà."
+          ],
+          "assistance": "2EMME Guest Support",
+          "coverage": "Contenuto",
+          "franchise": "Secondo condizioni di polizza"
+        }
+      ],
+      "policy": "Attiva Turismo n. 460438632"
+    },
+    {
+      "id": "heritage",
+      "publicName": "The NoLo Heritage - Authentic & Charming",
+      "shortName": "The NoLo Heritage",
+      "address": "Via Termopili 29, Piano Primo",
+      "floor": "Primo",
+      "elevator": "Assente",
+      "doorman": "Assente",
+      "homepageDescription": "Alloggio caldo e autentico in casa di ringhiera, con charme vintage e posizione strategica a NoLo.",
+      "apartmentCode": "HERITAGE24",
+      "heroLabel": "Authentic & Charming",
+      "supportPhone": "2EMME Guest Support · +39 02 6129 4665",
+      "accent": "var(--heritage)",
+      "assets": [
+        {
+          "id": "EQ25",
+          "item": "Televisore 40\"",
+          "brandModel": "Hisense 40A4K",
+          "category": "Entertainment",
+          "serial": "3TE40G2321BY01ADPA10193",
+          "purchaseDate": "2023-10-31",
+          "consumptionKwhYear": 58,
+          "notes": "Assurant 30/10/27",
+          "quickUse": [
+            "Accensione da telecomando.",
+            "Selezione app o HDMI dal menu Home."
+          ],
+          "programs": [
+            "Smart TV",
+            "HDMI",
+            "Streaming"
+          ],
+          "detailedPrograms": [
+            "TV smart 40 pollici."
+          ],
+          "green": "Spegni la TV quando non utilizzata.",
+          "troubleshooting": [
+            "Verifica connessione o sorgente HDMI in caso di schermo nero."
+          ],
+          "maintenance": [
+            "Pulizia schermo con panno morbido."
+          ],
+          "assistance": "Hisense Support",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ32",
+          "item": "Lavatrice",
+          "brandModel": "Candy CSTG 47TMV5/1-11",
+          "category": "Laundry",
+          "serial": "3101982123280060",
+          "purchaseDate": "2023-11-12",
+          "consumptionKwhYear": 99,
+          "quickUse": [
+            "Carica il bucato dall'alto.",
+            "Seleziona programma.",
+            "Premi avvio."
+          ],
+          "programs": [
+            "ECO 40-60",
+            "Sintetici e Colorati",
+            "Lana e Mano",
+            "20°C",
+            "Rapidi 14/30/44",
+            "Special 49'"
+          ],
+          "detailedPrograms": [
+            "Lavatrice top loading Candy.",
+            "Controllare le etichette dei capi prima di scegliere il programma."
+          ],
+          "washProgramsDetailed": [
+            {
+              "name": "ECO 40-60",
+              "duration": "lunga",
+              "suitableFor": "cotone normalmente sporco",
+              "warnings": [
+                "più lenta ma più efficiente"
+              ],
+              "notes": "Programma standard per consumi ottimizzati."
+            },
+            {
+              "name": "Sintetici e Colorati",
+              "duration": "media",
+              "suitableFor": "tessuti sintetici, misti e capi colorati resistenti",
+              "warnings": [
+                "non usare per lana o seta"
+              ],
+              "notes": "Adatto al bucato quotidiano colorato."
+            },
+            {
+              "name": "Lana e Mano",
+              "duration": "delicata",
+              "suitableFor": "lana e capi con etichetta hand wash / wool safe",
+              "warnings": [
+                "carico ridotto",
+                "centrifuga più dolce"
+              ],
+              "notes": "Protegge maggiormente le fibre."
+            },
+            {
+              "name": "20°C",
+              "duration": "media",
+              "suitableFor": "capi poco sporchi e colorati",
+              "warnings": [
+                "non ideale per sporco intenso"
+              ],
+              "notes": "Riduce i consumi rispetto a un cotone 40°C."
+            },
+            {
+              "name": "Rapidi 14/30/44",
+              "duration": "14, 30 o 44 min",
+              "suitableFor": "refresh veloce o piccoli carichi",
+              "warnings": [
+                "non per carichi pesanti o sporco marcato"
+              ],
+              "notes": "Pensato per esigenze rapide."
+            },
+            {
+              "name": "Special 49'",
+              "duration": "49 min",
+              "suitableFor": "bucato quotidiano mediamente sporco",
+              "warnings": [
+                "non per capi estremamente delicati"
+              ],
+              "notes": "Compromesso tra rapidità e resa."
+            }
+          ],
+          "green": "20°C o ECO 40-60 sono i programmi consigliati per uso ordinario.",
+          "troubleshooting": [
+            "Se vibra, ridistribuisci il carico.",
+            "Controlla tubi e scarico in caso di perdite."
+          ],
+          "maintenance": [
+            "Pulizia filtro ogni 2 mesi.",
+            "Verifica tubi e scarico."
+          ],
+          "assistance": "Candy Service · 02.40048200",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ51",
+          "item": "Aspirapolvere",
+          "brandModel": "BLACK+DECKER BXVMS600E",
+          "category": "Cleaning",
+          "serial": "44491HK",
+          "purchaseDate": "2026-01-04",
+          "quickUse": [
+            "Accensione e uso accessorio adatto."
+          ],
+          "programs": [
+            "Aspirazione standard"
+          ],
+          "detailedPrograms": [
+            "Aspirapolvere per pulizie rapide."
+          ],
+          "green": "Usalo solo per sessioni brevi mirate.",
+          "troubleshooting": [
+            "Controlla filtri se cala la potenza."
+          ],
+          "maintenance": [
+            "Svuota il contenitore polvere."
+          ],
+          "assistance": "BLACK+DECKER Support",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ79",
+          "item": "Frigorifero",
+          "brandModel": "IKEA HUTTRA",
+          "category": "Kitchen Appliance",
+          "purchaseDate": "2015-04-23",
+          "consumptionKwhYear": 190,
+          "notes": "24/7",
+          "quickUse": [
+            "Imposta termostato su livello medio, consigliato 3."
+          ],
+          "programs": [
+            "Raffreddamento statico"
+          ],
+          "detailedPrograms": [
+            "Frigorifero sottopiano con freezer integrato."
+          ],
+          "green": "Non introdurre cibi caldi e lascia spazio tra gli alimenti.",
+          "troubleshooting": [
+            "Acqua sul fondo = controllare scarico condensa."
+          ],
+          "maintenance": [
+            "Pulizia scarico condensa e guarnizioni."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ80",
+          "item": "Microonde",
+          "brandModel": "IKEA MATÄLSKARE",
+          "category": "Kitchen Appliance",
+          "purchaseDate": "2015-04-23",
+          "quickUse": [
+            "Imposta potenza e tempo tramite manopole."
+          ],
+          "programs": [
+            "Riscaldamento",
+            "Defrost"
+          ],
+          "detailedPrograms": [
+            "Microonde a incasso."
+          ],
+          "green": "Uso ideale per riscaldamenti rapidi.",
+          "troubleshooting": [
+            "Mai usare contenitori metallici."
+          ],
+          "maintenance": [
+            "Pulizia camera interna dopo l'uso."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ181",
+          "item": "Cappa",
+          "brandModel": "IKEA UTDRAG",
+          "category": "Kitchen Appliance",
+          "purchaseDate": "2015-04-23",
+          "quickUse": [
+            "Estrarre frontalino per attivare."
+          ],
+          "programs": [
+            "3 velocità"
+          ],
+          "detailedPrograms": [
+            "Cappa estraibile a incasso."
+          ],
+          "green": "Usa la velocità minima quando sufficiente.",
+          "troubleshooting": [
+            "Filtri saturi possono causare rumore eccessivo."
+          ],
+          "maintenance": [
+            "Pulizia filtri periodica."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ82",
+          "item": "Lavastoviglie",
+          "brandModel": "IKEA LAGAN",
+          "category": "Kitchen Appliance",
+          "purchaseDate": "2023-10-25",
+          "consumptionKwhYear": 238,
+          "quickUse": [
+            "Pastiglia > Power > P1 ECO > chiudi porta."
+          ],
+          "programs": [
+            "P1 ECO",
+            "Intensivo",
+            "Rapido 30'"
+          ],
+          "detailedPrograms": [
+            "Lavastoviglie integrata a elevata affidabilità.",
+            "Ciclo ECO consigliato per uso quotidiano."
+          ],
+          "dishwasherProgramsDetailed": [
+            {
+              "name": "ECO",
+              "duration": "circa 210 min",
+              "suitableFor": "piatti, bicchieri, tazze e posate normalmente sporchi",
+              "warnings": [
+                "programma consigliato per l'uso quotidiano",
+                "non adatto a incrostazioni molto forti o teglie carbonizzate",
+                "attendere 10 minuti a fine ciclo prima di aprire completamente"
+              ],
+              "notes": "Miglior equilibrio tra risultato di lavaggio e consumo di acqua/energia."
+            },
+            {
+              "name": "Intensivo 70°C",
+              "duration": "circa 140-170 min",
+              "suitableFor": "pentole, padelle, pirofile e stoviglie con sporco importante o unto secco",
+              "warnings": [
+                "non usare con cristallo delicato o plastica sensibile al calore",
+                "posizionare in basso gli oggetti più sporchi",
+                "da usare solo quando necessario"
+              ],
+              "notes": "Lavaggio ad alta temperatura con maggiore potenza meccanica."
+            },
+            {
+              "name": "Rapido 30'",
+              "duration": "circa 30 min",
+              "suitableFor": "stoviglie poco sporche o appena usate",
+              "warnings": [
+                "asciugatura meno efficace rispetto a ECO",
+                "non indicato per pentole unte o sporco secco da molte ore",
+                "meglio per carichi ridotti"
+              ],
+              "notes": "Ideale per refresh veloce tra un uso e l'altro."
+            }
+          ],
+          "green": "P1 ECO è il programma consigliato.",
+          "troubleshooting": [
+            "Errore scarico: controllare filtri sul fondo."
+          ],
+          "maintenance": [
+            "Pulizia filtro regolare."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ83",
+          "item": "Piano cottura",
+          "brandModel": "IKEA BARMHÄRTIG (vetro)",
+          "category": "Kitchen Appliance",
+          "purchaseDate": "2015-04-23",
+          "consumptionKwhYear": 402,
+          "quickUse": [
+            "Power.",
+            "Regola livelli 1-9."
+          ],
+          "programs": [
+            "9 livelli"
+          ],
+          "detailedPrograms": [
+            "Piano in vetroceramica radiante."
+          ],
+          "green": "Sfrutta il calore residuo spegnendo in anticipo.",
+          "troubleshooting": [
+            "Controlla che il vetro sia asciutto in caso di mancata risposta touch."
+          ],
+          "maintenance": [
+            "Pulizia a freddo con prodotti non abrasivi."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ84",
+          "item": "Macchina caffè",
+          "brandModel": "Illy Iperespresso Y3.3",
+          "category": "Coffee",
+          "serial": "Mancante",
+          "purchaseDate": "2023-10-31",
+          "quickUse": [
+            "Inserisci capsula.",
+            "Premi tasto erogazione."
+          ],
+          "programs": [
+            "Espresso",
+            "Lungo"
+          ],
+          "detailedPrograms": [
+            "Macchina a capsule Illy."
+          ],
+          "green": "Lascia che vada in standby dopo l'uso.",
+          "troubleshooting": [
+            "Controlla acqua e capsula in caso di mancata erogazione."
+          ],
+          "maintenance": [
+            "Svuota capsule e vaschetta."
+          ],
+          "assistance": "Illy Support",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ85",
+          "item": "Caldaia a gas",
+          "brandModel": "Beretta Ciao S 24 CSI",
+          "category": "Water Heating",
+          "serial": "G7VK1254166",
+          "purchaseDate": "2015-02-15",
+          "consumptionKwhYear": 36,
+          "quickUse": [
+            "Verifica pressione tra 1.2 e 1.5 bar.",
+            "Modalità Estate o Inverno secondo necessità."
+          ],
+          "programs": [
+            "Riscaldamento",
+            "Acqua calda sanitaria",
+            "Antigelo"
+          ],
+          "detailedPrograms": [
+            "Caldaia murale a gas per riscaldamento e produzione ACS.",
+            "Set consigliato acqua sanitaria 45°C."
+          ],
+          "green": "Set acqua sanitaria 45°C per limitare il calcare e i consumi.",
+          "troubleshooting": [
+            "A01: blocco fiamma.",
+            "A04: pressione acqua insufficiente."
+          ],
+          "maintenance": [
+            "Bollino blu biennale e analisi fumi obbligatoria."
+          ],
+          "assistance": "Centro Tecnico Beretta Milano",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ86",
+          "item": "Condizionatore",
+          "brandModel": "Fujitsu AOYG09LLCC Split",
+          "category": "HVAC",
+          "purchaseDate": "2015-02-15",
+          "consumptionKwhYear": 400,
+          "quickUse": [
+            "Power.",
+            "Cool.",
+            "Imposta 24°C."
+          ],
+          "programs": [
+            "Cool",
+            "Heat",
+            "Dry",
+            "Fan"
+          ],
+          "detailedPrograms": [
+            "Sistema split con pompa di calore."
+          ],
+          "green": "Non scendere sotto 22°C per evitare consumi eccessivi.",
+          "troubleshooting": [
+            "Verifica filtri e scarico condensa in caso di gocciolamenti."
+          ],
+          "maintenance": [
+            "Pulizia filtri periodica."
+          ],
+          "assistance": "2EMME Guest Support",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        }
+      ],
+      "policy": "Attiva Turismo n. 460438632"
+    },
+    {
+      "id": "masotto",
+      "publicName": "Masotto Terrace View - Bright & Quiet",
+      "shortName": "Masotto Terrace View",
+      "address": "Via Privata Umberto Masotto 4, Piano Quinto",
+      "floor": "Quinto",
+      "elevator": "Presente",
+      "doorman": "Non indicata",
+      "homepageDescription": "Monolocale luminoso e tranquillo con terrazzo privato, ideale per comfort, relax e collegamenti rapidi con M4/Linate.",
+      "apartmentCode": "MASOTTO24",
+      "heroLabel": "Bright & Quiet",
+      "supportPhone": "2EMME Guest Support · +39 02 4004 0000",
+      "accent": "var(--masotto)",
+      "assets": [
+        {
+          "id": "EQ41",
+          "item": "Lavasciuga",
+          "brandModel": "Miele Softtronic WT 2670",
+          "category": "Laundry",
+          "serial": "86308219",
+          "purchaseDate": "2019-09-01",
+          "consumptionKwhYear": 424,
+          "notes": "Old Gen",
+          "quickUse": [
+            "Accendi.",
+            "Seleziona il programma.",
+            "Imposta eventuale asciugatura.",
+            "Premi Avvio."
+          ],
+          "programs": [
+            "Cotone",
+            "Lavaggio Minimo",
+            "Delicati",
+            "Automatico",
+            "Express",
+            "Lana",
+            "Seta",
+            "Smoothing",
+            "Warm Air / Cool Air"
+          ],
+          "detailedPrograms": [
+            "Modello Miele WT 2670 con programmi completi di lavaggio e asciugatura.",
+            "Controllare sempre carico massimo per ogni programma."
+          ],
+          "washProgramsDetailed": [
+            {
+              "name": "Cotone",
+              "duration": "circa 2h08",
+              "suitableFor": "biancheria resistente, asciugamani, lenzuola e cotone robusto",
+              "warnings": [
+                "carico max 5 kg",
+                "temperatura fino a 95°C",
+                "non usare per capi delicati"
+              ],
+              "notes": "Programma più intenso per bucato resistente."
+            },
+            {
+              "name": "Lavaggio Minimo",
+              "duration": "circa 1h20",
+              "suitableFor": "bucato quotidiano con carico medio-leggero",
+              "warnings": [
+                "carico max 2.5 kg"
+              ],
+              "notes": "Buon compromesso tra cura e praticità."
+            },
+            {
+              "name": "Delicati",
+              "duration": "circa 59 min",
+              "suitableFor": "tessuti sensibili e capi leggeri",
+              "warnings": [
+                "carico max 1 kg",
+                "evitare sovraccarico"
+              ],
+              "notes": "Movimento più morbido e rispettoso delle fibre."
+            },
+            {
+              "name": "Automatico",
+              "duration": "circa 1h15",
+              "suitableFor": "carichi misti quotidiani",
+              "warnings": [
+                "carico max 2.5 kg"
+              ],
+              "notes": "Programma versatile per capi di uso comune."
+            },
+            {
+              "name": "Express",
+              "duration": "circa 32 min",
+              "suitableFor": "piccoli carichi poco sporchi",
+              "warnings": [
+                "non adatto a sporco intenso"
+              ],
+              "notes": "Perfetto per refresh rapido."
+            },
+            {
+              "name": "Lana",
+              "duration": "circa 39 min",
+              "suitableFor": "capi wool safe",
+              "warnings": [
+                "carico max 2 kg"
+              ],
+              "notes": "Protegge le fibre in modo delicato."
+            },
+            {
+              "name": "Seta",
+              "duration": "circa 36 min",
+              "suitableFor": "capi molto delicati e leggeri",
+              "warnings": [
+                "carico max 1 kg",
+                "usare detersivo delicato"
+              ],
+              "notes": "Per la massima delicatezza."
+            }
+          ],
+          "dryProgramsDetailed": [
+            {
+              "name": "Cotone Normal",
+              "duration": "circa 1h12",
+              "suitableFor": "cotone resistente fino a 2.5 kg",
+              "warnings": [
+                "non usare con sintetici delicati"
+              ],
+              "notes": "Programma asciugatura standard per bucato resistente."
+            },
+            {
+              "name": "Lavaggio Minimo Normal",
+              "duration": "circa 37 min",
+              "suitableFor": "piccoli carichi fino a 1.25 kg",
+              "warnings": [
+                "carico molto ridotto"
+              ],
+              "notes": "Per completare rapidamente l'asciugatura di pochi capi."
+            },
+            {
+              "name": "Smoothing",
+              "duration": "8 min",
+              "suitableFor": "riduzione pieghe dopo centrifuga",
+              "warnings": [
+                "non sostituisce un ciclo completo di asciugatura"
+              ],
+              "notes": "Aiuta a distendere i tessuti."
+            },
+            {
+              "name": "Warm Air / Cool Air",
+              "duration": "da 15 min a 2 ore",
+              "suitableFor": "arieggiare o completare asciugatura di pochi capi",
+              "warnings": [
+                "monitorare il tempo in base al tessuto"
+              ],
+              "notes": "Ciclo a tempo flessibile."
+            }
+          ],
+          "green": "Usa Express o Automatico per piccoli carichi e Pronto Stiro per ridurre i consumi.",
+          "troubleshooting": [
+            "Se il risultato non è uniforme, separa meglio i tessuti.",
+            "Riduci il carico se l'asciugatura è troppo lunga."
+          ],
+          "maintenance": [
+            "Pulizia filtro e cassetto detersivi regolare."
+          ],
+          "assistance": "Miele Service",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ44",
+          "item": "Televisore 43\"",
+          "brandModel": "Hisense 43E63KT",
+          "category": "Entertainment",
+          "serial": "36FG5G23113PITADPL53889",
+          "purchaseDate": "2023-11-06",
+          "consumptionKwhYear": 73,
+          "quickUse": [
+            "Accensione telecomando.",
+            "Home per app smart e HDMI."
+          ],
+          "programs": [
+            "Smart TV",
+            "HDMI",
+            "Wi‑Fi"
+          ],
+          "detailedPrograms": [
+            "Televisore smart con aggiornamenti firmware periodici."
+          ],
+          "green": "Spegni completamente quando non utilizzato.",
+          "troubleshooting": [
+            "In caso di nessun segnale HDMI verifica cavo o ingresso."
+          ],
+          "maintenance": [
+            "Pulizia schermo con panno morbido."
+          ],
+          "assistance": "Hisense Support",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ87",
+          "item": "Frigorifero",
+          "brandModel": "IKEA HUTTRA",
+          "category": "Kitchen Appliance",
+          "purchaseDate": "2023-10-02",
+          "consumptionKwhYear": 190,
+          "quickUse": [
+            "Termostato livello 3 consigliato."
+          ],
+          "programs": [
+            "Raffreddamento statico"
+          ],
+          "detailedPrograms": [
+            "Frigorifero sottopiano con freezer integrato."
+          ],
+          "green": "Mantieni libera la circolazione dell'aria.",
+          "troubleshooting": [
+            "Acqua nel fondo = foro condensa ostruito."
+          ],
+          "maintenance": [
+            "Pulizia foro condensa e guarnizioni."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ88",
+          "item": "Microonde",
+          "brandModel": "IKEA MATÄLSKARE",
+          "category": "Kitchen Appliance",
+          "serial": "152329002291",
+          "purchaseDate": "2023-10-02",
+          "quickUse": [
+            "Imposta potenza e tempo."
+          ],
+          "programs": [
+            "Riscaldamento",
+            "Defrost"
+          ],
+          "detailedPrograms": [
+            "Microonde a incasso con uso base per riscaldamento e scongelamento."
+          ],
+          "green": "Adatto a riscaldamenti rapidi a minor consumo rispetto al forno.",
+          "troubleshooting": [
+            "Evita metalli e contenitori non idonei."
+          ],
+          "maintenance": [
+            "Pulizia camera interna e piatto girevole."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ89",
+          "item": "Cappa",
+          "brandModel": "IKEA UTDRAG",
+          "category": "Kitchen Appliance",
+          "purchaseDate": "2023-10-02",
+          "quickUse": [
+            "Estrarre frontalino per attivazione."
+          ],
+          "programs": [
+            "3 velocità"
+          ],
+          "detailedPrograms": [
+            "Cappa estraibile a incasso."
+          ],
+          "green": "Usa la velocità più bassa sufficiente.",
+          "troubleshooting": [
+            "Filtri sporchi = rumorosità maggiore."
+          ],
+          "maintenance": [
+            "Lavaggio filtri regolare."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ90",
+          "item": "Lavastoviglie",
+          "brandModel": "IKEA MEDELSTOR",
+          "category": "Kitchen Appliance",
+          "purchaseDate": "2023-10-02",
+          "consumptionKwhYear": 213,
+          "quickUse": [
+            "Carica stoviglie.",
+            "Inserisci pastiglia.",
+            "Seleziona ECO e avvia."
+          ],
+          "programs": [
+            "ECO",
+            "Intensivo",
+            "Rapido"
+          ],
+          "detailedPrograms": [
+            "Lavastoviglie integrata con programma ECO consigliato."
+          ],
+          "dishwasherProgramsDetailed": [
+            {
+              "name": "ECO",
+              "duration": "circa 210 min",
+              "suitableFor": "piatti, bicchieri, tazze e posate normalmente sporchi",
+              "warnings": [
+                "programma consigliato per l'uso quotidiano",
+                "non adatto a incrostazioni molto forti o teglie carbonizzate",
+                "attendere 10 minuti a fine ciclo prima di aprire completamente"
+              ],
+              "notes": "Miglior equilibrio tra risultato di lavaggio e consumo di acqua/energia."
+            },
+            {
+              "name": "Intensivo 70°C",
+              "duration": "circa 140-170 min",
+              "suitableFor": "pentole, padelle, pirofile e stoviglie con sporco importante o unto secco",
+              "warnings": [
+                "non usare con cristallo delicato o plastica sensibile al calore",
+                "posizionare in basso gli oggetti più sporchi",
+                "da usare solo quando necessario"
+              ],
+              "notes": "Lavaggio ad alta temperatura con maggiore potenza meccanica."
+            },
+            {
+              "name": "Rapido 30'",
+              "duration": "circa 30 min",
+              "suitableFor": "stoviglie poco sporche o appena usate",
+              "warnings": [
+                "asciugatura meno efficace rispetto a ECO",
+                "non indicato per pentole unte o sporco secco da molte ore",
+                "meglio per carichi ridotti"
+              ],
+              "notes": "Ideale per refresh veloce tra un uso e l'altro."
+            }
+          ],
+          "green": "Preferisci sempre il programma ECO per uso ordinario.",
+          "troubleshooting": [
+            "Controlla filtro e bracci in caso di lavaggio scarso."
+          ],
+          "maintenance": [
+            "Pulizia filtro e controllo sale/brillantante."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ91",
+          "item": "Piano cottura",
+          "brandModel": "IKEA VILSTA (Induzione)",
+          "category": "Kitchen Appliance",
+          "purchaseDate": "2023-10-02",
+          "consumptionKwhYear": 402,
+          "quickUse": [
+            "Power.",
+            "Scegli zona.",
+            "Regola potenza."
+          ],
+          "programs": [
+            "9 livelli",
+            "Booster",
+            "Child lock"
+          ],
+          "detailedPrograms": [
+            "Piano cottura a induzione con pentole compatibili richieste."
+          ],
+          "green": "Sfrutta il calore residuo quando possibile.",
+          "troubleshooting": [
+            "Se non rileva pentola, verifica compatibilità e centratura."
+          ],
+          "maintenance": [
+            "Pulisci a freddo con panno morbido."
+          ],
+          "assistance": "IKEA Service · 199.11.46.46",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        },
+        {
+          "id": "EQ92",
+          "item": "Aspirapolvere",
+          "brandModel": "BLACK+DECKER BXVMS600E",
+          "category": "Cleaning",
+          "purchaseDate": "2026-01-04",
+          "quickUse": [
+            "Accendi e usa l'accessorio corretto."
+          ],
+          "programs": [
+            "Aspirazione standard"
+          ],
+          "detailedPrograms": [
+            "Aspirapolvere da supporto housekeeping e uso occasionale."
+          ],
+          "green": "Uso breve e mirato consigliato.",
+          "troubleshooting": [
+            "Perdita di potenza = verifica filtro."
+          ],
+          "maintenance": [
+            "Svuotare il contenitore polvere."
+          ],
+          "assistance": "BLACK+DECKER Support",
+          "coverage": "Contenuto / Fenomeno elettrico / Danni da acqua ove applicabile",
+          "franchise": "€ 200,00 salvo condizioni di polizza"
+        }
+      ],
+      "policy": "Immagina Adesso n. 440373024"
+    }
+  ]
+}
